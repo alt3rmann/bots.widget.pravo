@@ -1,30 +1,17 @@
-# vuetify-chat-widget
+# bots.widget.pravo
 
-## Project setup
-```
-npm install
-```
+## Change webhook token & yandex metrica id
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Edit file src/main.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Build code widget
 
-### Run your tests
-```
-npm run test
-```
+npm i && npm run build
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Frame widget to the site
+
+see file dist/index.html
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# bots.widget.pravo
+
